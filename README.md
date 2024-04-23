@@ -1,5 +1,6 @@
 # Reto-09---Brayux
 PUNTO 1: Función Lambda
+
 1.1) Calculo promedio de 5 números
 ```python
 # Programa, calculo de promedio
@@ -123,7 +124,9 @@ timer = end_time - start_time
 print(timer)
 ```
 ////// fibonacci con iteración o con recursión ///////
+
 [![Whats-App-Image-2024-04-22-at-8-41-21-PM.jpg](https://i.postimg.cc/RhnKgMnF/Whats-App-Image-2024-04-22-at-8-41-21-PM.jpg)](https://postimg.cc/1Vs8t1Bh)
+
 ```python
 import time
 def funcion_recursiva_fibonacci(Número = "")->float:
@@ -150,8 +153,14 @@ if __name__ == "__main__":
     fibonacci_tiempo()
 ```
 PUNTO 5: Cuenta stackoverflow
+
+
 [![Whats-App-Image-2024-04-11-at-8-15-20-PM.jpg](https://i.postimg.cc/Xv0HFzmd/Whats-App-Image-2024-04-11-at-8-15-20-PM.jpg)](https://postimg.cc/k2fvPfng)
 PUNTO 6: Cuenta Linkedin
+
+
 [![Whats-App-Image-2024-04-22-at-8-38-23-PM.jpg](https://i.postimg.cc/QdZknWmr/Whats-App-Image-2024-04-22-at-8-38-23-PM.jpg)](https://postimg.cc/RNGHWh2P)
+
+
 esta en proceso de verificación porq creen q soy un botcito :(
 
