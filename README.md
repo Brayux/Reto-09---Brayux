@@ -156,6 +156,8 @@ PUNTO 5: Cuenta stackoverflow
 
 
 [![Whats-App-Image-2024-04-11-at-8-15-20-PM.jpg](https://i.postimg.cc/Xv0HFzmd/Whats-App-Image-2024-04-11-at-8-15-20-PM.jpg)](https://postimg.cc/k2fvPfng)
+
+
 PUNTO 6: Cuenta Linkedin
 
 
